@@ -1,0 +1,46 @@
+Send to: webreg@bom.gov.au
+Subject: Registered User enquiry — student project republishing NT warnings
+
+---
+
+Dear Bureau of Meteorology,
+
+I am a Master of Information Technology student at Charles Darwin University in
+Darwin. I am building a free, non-commercial web app called CommunityConnectNT
+that shows Northern Territory warnings alongside shelter locations and emergency
+contacts, translated into the languages commonly spoken in the Top End.
+
+At the moment I read NT warning products from your anonymous FTP service
+(ftp.bom.gov.au, /anon/gen/fwo, the IDD products) using a scheduled script that
+runs every ten minutes. I understand from the anonymous FTP user guide that this
+service is provided for personal and internal use, and that anyone intending to
+publish Bureau data should do so as a Registered User.
+
+The app is now published at:
+https://subediparku-eng.github.io/communityconnectnt/
+
+I would like to make sure I am using your data correctly. Could you please tell
+me:
+
+1. Whether Registered User status is the right path for a project like this,
+   and how I apply.
+2. Whether there is any cost for non-commercial or student use.
+3. What attribution you would like displayed alongside the warnings. At present
+   each warning is labelled "Bureau of Meteorology" and links back to
+   bom.gov.au, and the app states clearly that it is a prototype and not an
+   official emergency service.
+4. Whether a ten-minute polling interval on the FTP service is acceptable, or
+   whether you would prefer a different interval or a different feed.
+
+I would rather fix anything that is not right before more people use it. I am
+happy to change the polling frequency, the attribution, or the data source if
+that helps.
+
+Thank you for your time.
+
+Kind regards,
+
+Prakash Subedi
+Master of Information Technology, Charles Darwin University
+subediparku@gmail.com
+https://github.com/subediparku-eng/communityconnectnt
