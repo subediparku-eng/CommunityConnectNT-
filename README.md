@@ -1,161 +1,140 @@
-[README.md](https://github.com/user-attachments/files/33600746/README.md)
 # CommunityConnectNT
 
-Emergency warnings, shelters and help for the Northern Territory, in the
+Emergency warnings, shelters and help for the Northern Territory — in the
 languages people in Darwin actually speak.
 
-**This is a prototype. It is not an official emergency service.**
-Always follow AusAlert, the Bureau of Meteorology and SecureNT.
+> **This is a prototype, not an official emergency service.**
+> In an emergency, follow AusAlert, the Bureau of Meteorology and
+> [SecureNT](https://securent.nt.gov.au/). This app links to them; it never
+> replaces them.
 
 ---
 
-## What is in here
+## Why this exists
 
-| Path | What it is |
+Australia's new national warning system, **AusAlert**, went live in October
+2026. It broadcasts a siren and a message to every phone near an emergency.
+Its messages are in **English only**. The Emergency Management Minister has
+said a siren can "move across language barriers" — true of the siren, not of
+the message that follows it.
+
+In Greater Darwin, about **one in three people speaks a language other than
+English at home**, well above the national figure of roughly one in five. The
+largest groups after English are Greek, Nepali, Tagalog, Mandarin and Filipino.
+A further 10.4% of the population is Aboriginal or Torres Strait Islander, and
+many Aboriginal Territorians speak English as a second or third language.
+
+The Northern Territory Government's own emergency app, **secureNT**, was last
+updated on **21 February 2017**. It is English only, iOS only, and has no live
+warnings.
+
+This gap has already caused harm. During Cyclone Trevor in March 2019, cyclone
+information reached Ngukurr in English while the community speaks Kriol.
+Residents could not tell how close the danger was. The Bureau had in fact
+advised that Ngukurr would be relatively safe, but nobody there could read it,
+so the panic continued. NT Emergency Services told the ABC at the time that it
+had no policy on translating emergency messages into local languages.
+
+A warning that cannot be understood is not a warning.
+
+## What it does
+
+- Shows current NT warnings with a **picture for the hazard**, so the kind of
+  danger reads without any words at all.
+- Explains the three Australian Warning System levels — Advice, Watch and Act,
+  Emergency Warning — in the reader's own language, with the English kept in
+  brackets, because English is the wording used on radio and TV.
+- Lists nearby shelters with addresses and map links, and states clearly that
+  you should not go to a shelter until authorities say it is open.
+- Carries the emergency kit list and the phone numbers that matter.
+- Shows the current Darwin weather and forecast.
+
+### What it deliberately does not do
+
+- **It is not the warning.** The Bureau, AusAlert and SecureNT are the
+  authorities. This app always links out to them.
+- **It never tells anyone what to do.** It does not say "evacuate" or "stay".
+  It shows the official warning and explains what the levels mean.
+- **It does not pretend to be current when it is not.** If the warnings feed
+  stops updating for 30 minutes, the app removes every warning from the screen
+  and sends the reader to an official source. Showing yesterday's cyclone
+  warning as today's is the worst thing this app could do, so that failure is
+  deliberately loud.
+
+## Status
+
+Working: 16 languages, hazard pictograms, warning-level explainer, shelter
+list, emergency contacts, kit list, weather card, right-to-left layout for
+Urdu and Arabic, light and dark themes, and the staleness guard.
+
+Not finished, on purpose:
+
+- **First Languages are listed but switched off.** Kriol, Yolŋu Matha,
+  Pitjantjatjara, Warlpiri, Tiwi and Arrernte emergency wording must come from
+  accredited interpreters and be checked with community representatives. The
+  [NT Aboriginal Interpreter Service](https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service/about-the-aboriginal-interpreting-service)
+  is the right partner, and the Bureau already works with them during cyclones.
+  Machine-translating an emergency instruction is not acceptable: "shelter in
+  place" and "evacuate now" are opposite actions.
+- **The shelter list is a snapshot** taken from the SecureNT website, which
+  publishes it as plain HTML with no capacity figures and no data feed. A feed
+  from the NT Government would fix this for every app in the Territory, not
+  just this one.
+- **The weather card still uses example data.**
+
+## How it works
+
+One HTML file, no build step, no framework, no tracking.
+
+A scheduled job reads NT warning products from the Bureau of Meteorology's
+anonymous FTP service every ten minutes, converts them to `warnings.json`, and
+commits that file next to the app. The page fetches it from the same origin, so
+there is no API key and no cross-origin request. If the file is missing, the
+app shows clearly-labelled example data. If it is stale, the app hides the
+warnings entirely.
+
+| File | Purpose |
 | --- | --- |
-| `index.html` | The whole app. One file: markup, styles and script. |
-| `scripts/fetch_warnings.py` | Reads NT warnings from the Bureau's FTP service and writes `warnings.json`. Python standard library only, no packages to install. |
-| `.github/workflows/warnings.yml` | Runs that script every 10 minutes on GitHub's servers and commits the result. |
-| `robots.txt` | Tells search engines not to index the site while it is a prototype. |
-| `bom-email-draft.txt` | Ready-to-send email to the Bureau about Registered User status. |
-| `LICENSE` | MIT. Covers the code only, not the data. |
+| `index.html` | The entire app |
+| `fetch_warnings.py` | Reads the Bureau's FTP feed, writes `warnings.json` |
+| `.github/workflows/warnings.yml` | Runs that script on a schedule |
 
-The app looks for `warnings.json` next to itself. If the file is missing it
-falls back to clearly-labelled example data. If the file is there but older
-than 30 minutes, the app hides every warning and tells the reader to go to an
-official source instead.
-
----
-
-## Step 1 — Run it on your own computer
-
-You do not need a web server for this, but using one avoids browser security
-warnings about local files.
+## Run it yourself
 
 ```bash
-cd communityconnectnt
 python3 -m http.server 8000
 ```
 
-Then open <http://localhost:8000> in your browser.
+Then open <http://localhost:8000>.
 
-To stop it, press `Ctrl + C`.
+A web server is needed even locally. If you open `index.html` as a file,
+the browser blocks it from fetching `warnings.json` and the app silently falls
+back to example data.
 
-## Step 2 — Test the warnings script
-
-```bash
-python3 scripts/fetch_warnings.py
-```
-
-It prints every NT warning file it finds on the Bureau's FTP service and
-writes `warnings.json` into the folder. Reload the browser and the app should
-switch from "Sample data" to "Live from the Bureau of Meteorology".
-
-If the Bureau has no warnings in force, the file will be nearly empty. That is
-correct behaviour, not a bug.
-
-## Step 3 — Put it on GitHub
-
-Create an empty repository on GitHub first. Do not add a README there, because
-this folder already has one.
+To pull live warnings:
 
 ```bash
-cd communityconnectnt
-git init
-git add .
-git commit -m "First version of CommunityConnectNT"
-git branch -M main
-git remote add origin https://github.com/subediparku-eng/communityconnectnt.git
-git push -u origin main
+python3 fetch_warnings.py
 ```
 
-## Step 4 — Turn on GitHub Pages
+## Data sources and credit
 
-In the repository on github.com:
+Warnings and weather come from the Australian Government **Bureau of
+Meteorology**. Shelter information comes from **SecureNT**, Northern Territory
+Government. Neither organisation endorses this app or is responsible for it.
 
-1. **Settings** → **Pages**
-2. Under **Source**, choose **Deploy from a branch**
-3. Branch: `main`, folder: `/ (root)`, then **Save**
+Bureau data is used under its own terms, separately from the code licence.
 
-After a minute or two the app is live at:
+## Licence
 
-```
-https://subediparku-eng.github.io/communityconnectnt/
-```
-
-## Step 5 — Let the robot write warnings.json
-
-The scheduled job needs permission to commit back to your own repository.
-This is the step people usually miss.
-
-1. **Settings** → **Actions** → **General**
-2. Scroll to **Workflow permissions**
-3. Choose **Read and write permissions**, then **Save**
-
-Then run it once by hand to check it works:
-
-1. Open the **Actions** tab
-2. Choose **Update NT warnings** on the left
-3. **Run workflow** → **Run workflow**
-
-Watch the run. If it goes green and a `warnings.json` appears in the
-repository, it is working. From then on it runs every 10 minutes on its own.
+Code is MIT licensed — see [LICENSE](LICENSE). The licence covers the code
+only, not the data.
 
 ---
 
-## Why this repository is public
+Built by **Prakash Subedi**, Master of Information Technology,
+Charles Darwin University, Darwin.
 
-Public was a deliberate choice, for three reasons.
-
-1. **It is dated proof of the work.** Every commit carries a timestamp. If
-   anyone builds something similar later, the history shows who did it first.
-2. **The free plan needs it.** GitHub Pages only works on public repositories
-   unless you pay for Pro. More importantly, GitHub Actions is unlimited and
-   free on public repositories, but a private one gets only 2,000 minutes a
-   month — and the ten-minute schedule needs about 4,300.
-3. **It can be shown to anyone.** Code Fair, the NT Government, a future
-   employer. A link is enough.
-
-### Findable by a link, not by Google
-
-`robots.txt` blocks search engines, and `index.html` carries a
-`noindex, nofollow` tag. Anyone you send the link to can open it. Someone
-searching "darwin cyclone shelter" in a panic will not land on a prototype by
-accident.
-
-**Delete both when the app is finished and official.** Until then they stay.
-
-### Before you share the link widely
-
-The Bureau's anonymous FTP service is licensed for personal and internal use.
-Its own documentation says you may not supply the material to another person,
-and that anyone publishing Bureau data should do so as a **Registered User**.
-
-Open `bom-email-draft.txt`, check the details, and send it to
-**webreg@bom.gov.au**. Do that before the link goes to anyone outside your
-own circle.
-
----
-
-## Things that are deliberately not finished
-
-- **First Languages are listed but switched off.** Kriol, Yolŋu Matha,
-  Pitjantjatjara, Warlpiri, Tiwi and Arrernte emergency wording has to come
-  from accredited interpreters and be checked with community representatives.
-  The Aboriginal Interpreter Service is the right partner, and the Bureau
-  already works with them during cyclones.
-- **The shelter list is from the SecureNT website**, which publishes it as
-  plain HTML with no capacity figures and no feed. Treat it as a starting
-  point, not as live data.
-- **The weather card still uses example data.** The fetch script for it has
-  not been written yet.
-
----
-
-## Licence and credit
-
-Warnings and weather data come from the Australian Government Bureau of
-Meteorology. Shelter information comes from SecureNT, Northern Territory
-Government. Neither endorses this app.
-
-Built by Prakash Subedi, Charles Darwin University.
+This project began as coursework for PRT551 Project Management, Risk and
+Reliability, and is being developed toward a working release before the
+2027–28 wet season.
