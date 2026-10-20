@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:38:38+00:00",
+  "updated": "2026-10-20T21:53:42+00:00",
   "source": "Bureau of Meteorology anonymous FTP",
   "count": 60,
   "warnings": [
@@ -45,7 +45,7 @@
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
       "text": "Sunny morning. Slight chance of a shower in the afternoon and evening. The chance of a thunderstorm in the afternoon and evening. Winds south to southeasterly 15 to 20 km/h tending northwest to northeasterly 15 to 25 km/h during the morning then tending southeast to southwesterly 20 to 30 km/h during the afternoon.",
-      "issued": "2026-10-20T18:32:48Z",
+      "issued": "2026-10-20T19:44:39Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -72,7 +72,7 @@
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
       "text": "Partly cloudy. Medium chance of showers, most likely in the morning and afternoon. A thunderstorm likely, possibly severe with damaging winds and large hail. Light winds becoming west to northwesterly 20 to 30 km/h in the morning then becoming light in the evening.",
-      "issued": "2026-10-20T18:32:05Z",
+      "issued": "2026-10-20T19:44:33Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -225,7 +225,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T18:32:48Z",
+      "issued": "2026-10-20T19:44:39Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -234,7 +234,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T18:31:37Z",
+      "issued": "2026-10-20T19:44:38Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -243,7 +243,7 @@
       "hazard": "storm",
       "title": "Partly cloudy. Medium chance of showers, becoming less likely late this afternoon and evening. The chance of a thunderstorm about the Cox Pe",
       "text": "Mostly sunny. Slight chance of a shower north of Arnhem Highway in the late morning and afternoon. Near zero chance of rain elsewhere. The chance of a thunderstorm south of Arnhem Highway in the late afternoon and evening. Light winds becoming north to northeasterly 15 to 20 km/h in the late afternoon then becoming...",
-      "issued": "2026-10-20T18:31:37Z",
+      "issued": "2026-10-20T19:44:38Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -270,7 +270,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T18:32:05Z",
+      "issued": "2026-10-20T19:44:33Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -324,7 +324,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T18:31:46Z",
+      "issued": "2026-10-20T19:44:24Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -333,7 +333,7 @@
       "hazard": "other",
       "title": "Partly cloudy.",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T18:31:46Z",
+      "issued": "2026-10-20T19:44:24Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -342,7 +342,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T18:32:53Z",
+      "issued": "2026-10-20T19:44:43Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -351,7 +351,7 @@
       "hazard": "storm",
       "title": "Partly cloudy. Slight chance of a shower. Light winds becoming northwest to northeasterly 20 to 30 km/h in the middle of the day then becomi",
       "text": "Partly cloudy. Medium chance of showers, most likely in the morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming north to northwesterly 20 to 25 km/h during the day then tending west to northwesterly 15 to 25 km/h during the afternoon.",
-      "issued": "2026-10-20T18:32:53Z",
+      "issued": "2026-10-20T19:44:43Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -369,7 +369,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T06:30:00Z",
+      "issued": "2026-10-20T20:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -378,7 +378,7 @@
       "hazard": "storm",
       "title": "Mostly sunny in the western Carpentaria District, partly cloudy in the Arnhem District. A slight to medium chance of showers and gusty thund",
       "text": "Mostly sunny in the western Carpentaria District, partly cloudy in the Arnhem District. A slight to medium chance of showers and gusty thunderstorms elsewhere, increasing to a medium to high chance over the Lasseter, Tanami and southwest Daly Districts. Heavy rainfall is possible with thunderstorms in the western...",
-      "issued": "2026-10-20T06:30:00Z",
+      "issued": "2026-10-20T20:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -387,7 +387,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T06:30:00Z",
+      "issued": "2026-10-20T19:30:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -396,7 +396,7 @@
       "hazard": "fire",
       "title": "F",
       "text": "Note: On occasion Fire Danger Ratings may not adhere to FBI thresholds above due to agency discretion in setting FDRs.",
-      "issued": "2026-10-20T06:30:00Z",
+      "issued": "2026-10-20T19:30:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -540,7 +540,7 @@
       "hazard": "other",
       "title": "O",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-20T18:31:03+00:00",
+      "issued": "2026-10-20T21:51:01+00:00",
       "source": "Bureau of Meteorology"
     }
   ]
