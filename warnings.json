@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:22:36+00:00",
+  "updated": "2026-10-22T15:59:11+00:00",
   "source": "Bureau of Meteorology anonymous FTP",
   "count": 63,
   "warnings": [
@@ -151,9 +151,9 @@
       "id": "IDD21033.amoc",
       "level": "watch",
       "hazard": "storm",
-      "title": "Severe Thunderstorm Warning for Damaging Winds, Large Hail and Heavy Rainfall for Simpson and Lasseter forecast districts",
-      "text": "Severe Thunderstorm Warning for Damaging Winds, Large Hail and Heavy Rainfall for Simpson and Lasseter forecast districts",
-      "issued": "2026-10-22T11:05:39Z",
+      "title": "Cancellation of Severe Thunderstorm Warning for Simpson and Lasseter forecast districts",
+      "text": "Cancellation of Severe Thunderstorm Warning for Simpson and Lasseter forecast districts",
+      "issued": "2026-10-22T13:45:18Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -548,7 +548,7 @@
       "level": "advice",
       "hazard": "flood",
       "title": "IDD21033.cap",
-      "text": "The Northern Territory Emergency Service advises that people should: * slow down and turn your headlights on * create your own sandbags if there is flooding, by using pillow cases or shopping bags filled with sand and place them around doorways to protect your home * secure loose outside objects * ensure pets and...",
+      "text": "The Northern Territory Emergency Service advises that people should: * avoid driving into water of unknown depth and current * stay away from fallen power lines. They are dangerous and should always be treated as live * stay away from flooded drains, rivers, streams and waterways * for emergency help in floods,...",
       "issued": "",
       "source": "Bureau of Meteorology"
     },
@@ -557,8 +557,8 @@
       "level": "advice",
       "hazard": "other",
       "title": "W",
-      "text": "iVBORw0KGgoAAAANSUhEUgAAArwAAAK8CAIAAACC2PsUAACAAElEQVR42uydeUwT2R/A3x9NmjQhpCFNQyAEAoFAIECACBEIariiiETFE7PieuOF9woiHiuHLmjFA0XFC1Q8UCqCgAqKogJlLBYKRQQ5CoUylatQ6G+mF1eLuL91V3e/k09Imb7OzHsz876fee/NDEIwwQQTTDDBBBNMMMEEE0wwwQQTTH/xJJe8//85cODAX7Kcn4i/M8v/4uL9Dx45ADACTDD9+JPkPUgDSANIAwCANMAEE0gDSAMUIwCANMAEE0gDSAMUIwCAN...",
-      "issued": "2026-10-22T11:05:39Z",
+      "text": "iVBORw0KGgoAAAANSUhEUgAAArwAAAK8CAIAAACC2PsUAACAAElEQVR42uydeUwT6cPH5w8SEhLjSwghBEIgEAgEog0QIRxxNQJG8YiKrldW3fVar9VdjxVUUHc5dFHwxAvwVtRFRQUVDxRlFcGhUGgpFAqFQmk7BVpKp+3bg6Ncgv7U1fU7+WjK3H3OzzzPM08JAgsWLFiwYMGCBQsWLFiwYMGC5SMvWlnJ/86uXbs+ynm+Ij7nV/4PB+83mHIA0IMFy9eyyEogDZAGSAMAkAYsWCANkAYEIwCQBixYIA2QBgQjAJAGLFggDajtI...",
+      "issued": "2026-10-22T13:45:18Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -567,7 +567,7 @@
       "hazard": "other",
       "title": "O",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-22T11:21:02+00:00",
+      "issued": "2026-10-22T15:51:02+00:00",
       "source": "Bureau of Meteorology"
     }
   ]
