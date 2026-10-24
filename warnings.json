@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:30:19+00:00",
+  "updated": "2026-10-24T22:42:36+00:00",
   "source": "Bureau of Meteorology anonymous FTP",
   "count": 60,
   "warnings": [
@@ -540,7 +540,7 @@
       "hazard": "other",
       "title": "O",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-24T20:21:03+00:00",
+      "issued": "2026-10-24T22:41:02+00:00",
       "source": "Bureau of Meteorology"
     }
   ]
