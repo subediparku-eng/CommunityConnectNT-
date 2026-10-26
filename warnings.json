@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T11:18:41+00:00",
+  "updated": "2026-10-26T17:29:20+00:00",
   "source": "Bureau of Meteorology anonymous FTP",
   "count": 60,
   "warnings": [
@@ -8,8 +8,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely in the morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming northwest to northeasterly 15 to 20 km/h during the day then tending west to northwesterly during the afternoon.",
-      "issued": "2026-10-26T10:47:53Z",
+      "text": "Partly cloudy. Medium chance of showers, most likely during this afternoon and evening. The chance of a thunderstorm during this afternoon and evening. Light winds becoming west to northwesterly 15 to 20 km/h in the middle of the day then becoming light in the late afternoon.",
+      "issued": "2026-10-26T17:23:12Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -17,8 +17,8 @@
       "level": "watch",
       "hazard": "flood",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Very high chance of showers, most likely in the late afternoon and evening. A thunderstorm likely, possibly severe with heavy rain which may lead to flash flooding in the afternoon and evening. Winds northeast to southeasterly 15 to 20 km/h tending north to northeasterly 15 to 25 km/h in the morning...",
-      "issued": "2026-10-26T10:47:49Z",
+      "text": "Partly cloudy. Very high chance of showers, most likely during this afternoon and evening. A thunderstorm likely, possibly severe with heavy rain which may lead to flash flooding during this afternoon and evening. Winds northeast to southeasterly 15 to 20 km/h tending north to northeasterly 15 to 25 km/h in the...",
+      "issued": "2026-10-26T17:23:08Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -27,7 +27,7 @@
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
       "text": "Partly cloudy. Medium chance of showers, most likely in the afternoon and evening. The chance of a thunderstorm in the afternoon and evening. Light winds becoming north to northwesterly 15 to 20 km/h in the late afternoon then becoming light in the evening.",
-      "issued": "2026-10-26T10:46:20Z",
+      "issued": "2026-10-26T17:23:03Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -35,8 +35,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely in the morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds.",
-      "issued": "2026-10-26T10:46:10Z",
+      "text": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely during this afternoon and evening. Light winds.",
+      "issued": "2026-10-26T17:22:58Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -44,8 +44,8 @@
       "level": "watch",
       "hazard": "flood",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely in the afternoon and evening. A thunderstorm likely, possibly severe with damaging winds and heavy rain which may lead to flash flooding in the afternoon and evening. Winds easterly 25 to 35 km/h becoming light in the early afternoon then becoming east to...",
-      "issued": "2026-10-26T10:47:57Z",
+      "text": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely from late this morning, possibly severe with damaging winds and heavy rain which may lead to flash flooding during this afternoon and evening. Winds easterly 25 to 35 km/h becoming light in the early...",
+      "issued": "2026-10-26T17:23:17Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -153,7 +153,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T05:30:00Z",
+      "issued": "2026-10-26T17:22:54Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -162,7 +162,7 @@
       "hazard": "storm",
       "title": "A broad trough extends across central parts of the Territory with an established ridge to the far south. This ridge weakens as a trough deve",
       "text": "A medium to high chance of showers and gusty thunderstorms, decreasing to a slight to medium chance over the eastern Arnhem, eastern Carpentaria, southwest Gregory and western Tanami Districts. Thunderstorms in the southwest Barkly, southern Tanami, Lasseter and western Simpson Districts may produce damaging wind...",
-      "issued": "2026-10-26T05:30:00Z",
+      "issued": "2026-10-26T17:22:54Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -171,7 +171,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:12Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -180,7 +180,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:12Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -189,7 +189,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:47:53Z",
+      "issued": "2026-10-26T17:23:12Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -198,7 +198,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:47:49Z",
+      "issued": "2026-10-26T17:23:08Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -207,7 +207,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:46:20Z",
+      "issued": "2026-10-26T17:23:03Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -216,7 +216,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:46:10Z",
+      "issued": "2026-10-26T17:22:58Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -225,7 +225,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:47:57Z",
+      "issued": "2026-10-26T17:23:17Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -234,16 +234,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:46:09Z",
+      "issued": "2026-10-26T17:22:44Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10198",
       "level": "advice",
       "hazard": "flood",
-      "title": "Mostly clear. Light winds.",
-      "text": "Partly cloudy. High chance of showers, most likely in the afternoon and evening. A thunderstorm likely, possibly severe with damaging winds and heavy rain which may lead to flash flooding in the afternoon and evening. Winds easterly 25 to 35 km/h becoming light in the early afternoon then becoming east to...",
-      "issued": "2026-10-26T10:46:09Z",
+      "title": "Partly cloudy. Medium chance of showers, most likely during this afternoon and evening. The chance of a thunderstorm during this afternoon a",
+      "text": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely from late this morning, possibly severe with damaging winds and heavy rain which may lead to flash flooding during this afternoon and evening. Winds easterly 25 to 35 km/h becoming light in the early...",
+      "issued": "2026-10-26T17:22:44Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -324,16 +324,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:45:50Z",
+      "issued": "2026-10-26T17:22:27Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10207",
       "level": "advice",
-      "hazard": "other",
-      "title": "Clear.",
+      "hazard": "storm",
+      "title": "Showers. Storm developing.",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T10:45:50Z",
+      "issued": "2026-10-26T17:22:27Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -405,7 +405,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:17Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -414,7 +414,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:17Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -423,7 +423,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:31Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -432,7 +432,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:31Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -441,7 +441,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:49Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -450,7 +450,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:49Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -459,7 +459,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:35Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -468,7 +468,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:35Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -477,7 +477,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:40Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -486,7 +486,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:40Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -495,7 +495,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:45Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -504,7 +504,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:45Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -513,7 +513,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:21Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -522,7 +522,7 @@
       "hazard": "other",
       "title": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late",
       "text": "A broad trough extends across central parts of the Territory, with a weak ridge to the east. The trough contracts to the western waters late Tuesday, and a ridge returns to the Gulf of Carpentaria.",
-      "issued": "2026-10-26T11:00:00Z",
+      "issued": "2026-10-26T17:22:21Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -540,7 +540,7 @@
       "hazard": "other",
       "title": "O",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-10-26T11:11:02+00:00",
+      "issued": "2026-10-26T17:21:02+00:00",
       "source": "Bureau of Meteorology"
     }
   ]
