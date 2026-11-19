@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T04:09:12+00:00",
+  "updated": "2026-11-19T13:02:36+00:00",
   "source": "Bureau of Meteorology anonymous FTP",
   "count": 60,
   "warnings": [
@@ -8,17 +8,17 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely in the afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming north to northwesterly 15 to 20 km/h during the day then tending west to northwesterly during the afternoon.",
-      "issued": "2026-11-19T01:07:44Z",
+      "text": "Partly cloudy. High chance of showers, most likely in the afternoon and evening. A thunderstorm likely in the afternoon and evening. Light winds becoming north to northwesterly 15 to 20 km/h in the middle of the day then tending west to northwesterly in the early afternoon.",
+      "issued": "2026-11-19T11:00:29Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10161",
       "level": "watch",
-      "hazard": "flood",
+      "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers, most likely in the afternoon. The chance of a thunderstorm, possibly severe with damaging winds, large hail and heavy rain which may lead to flash flooding. Winds north to northwesterly 20 to 25 km/h tending west to northwesterly 15 to 25 km/h in the middle of the day then...",
-      "issued": "2026-11-19T01:07:26Z",
+      "text": "Mostly sunny. Slight chance of a shower. The chance of a thunderstorm in the evening. Winds northwesterly 15 to 20 km/h tending westerly during the day then becoming light during the afternoon.",
+      "issued": "2026-11-19T10:59:29Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -26,8 +26,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely later in the day. The chance of a thunderstorm. Light winds becoming north to northwesterly 15 to 20 km/h during the day.",
-      "issued": "2026-11-19T01:07:39Z",
+      "text": "Mostly sunny morning. High chance of showers, most likely in the afternoon and evening. A thunderstorm likely in the afternoon and evening. Light winds becoming northeast to southeasterly 15 to 20 km/h in the early afternoon then becoming light in the late afternoon.",
+      "issued": "2026-11-19T11:00:24Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -35,17 +35,17 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers, most likely in the afternoon and evening. The chance of a thunderstorm in the afternoon and evening. Light winds.",
-      "issued": "2026-11-19T01:07:49Z",
+      "text": "Partly cloudy. High chance of showers, most likely in the afternoon and evening. The chance of a thunderstorm in the afternoon and evening. Light winds.",
+      "issued": "2026-11-19T11:00:20Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10197",
       "level": "watch",
-      "hazard": "flood",
+      "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Slight chance of a shower. The chance of a thunderstorm in the afternoon and evening, possibly severe with damaging winds, large hail and heavy rain which may lead to flash flooding. Winds northwesterly 20 to 30 km/h becoming light in the evening.",
-      "issued": "2026-11-19T01:07:53Z",
+      "text": "Partly cloudy. High chance of showers. A thunderstorm likely. Winds easterly 15 to 20 km/h turning north to northeasterly 15 to 25 km/h during the morning.",
+      "issued": "2026-11-19T11:00:15Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -53,26 +53,26 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers, most likely in the morning and afternoon. The chance of a thunderstorm in the afternoon. Light winds becoming east to northeasterly 15 to 20 km/h during the morning then becoming light during the afternoon.",
-      "issued": "2026-11-18T22:48:39Z",
+      "text": "Partly cloudy. Medium chance of showers, most likely in the late morning and afternoon. The chance of a thunderstorm in the afternoon. Light winds becoming easterly 15 to 20 km/h in the morning then becoming light in the late afternoon.",
+      "issued": "2026-11-19T11:00:05Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10200",
       "level": "watch",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Mostly sunny morning. Medium chance of showers, most likely in the afternoon and evening. The chance of a thunderstorm in the late afternoon and evening. Light winds.",
-      "issued": "2026-11-19T01:07:31Z",
+      "text": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadcasts.",
+      "issued": "2026-11-19T11:00:10Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10201",
       "level": "watch",
-      "hazard": "flood",
+      "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Slight chance of a shower. The chance of a thunderstorm in the afternoon and evening, possibly severe with damaging winds, large hail and heavy rain which may lead to flash flooding. Winds northwesterly 20 to 30 km/h becoming light in the evening.",
-      "issued": "2026-11-19T01:07:35Z",
+      "text": "Partly cloudy. Medium chance of showers, most likely later in the day. The chance of a thunderstorm. Winds easterly 15 to 25 km/h tending northeasterly during the morning.",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -80,8 +80,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers, most likely in the late afternoon and evening. The chance of a thunderstorm in the late afternoon and evening. Light winds.",
-      "issued": "2026-11-19T01:07:22Z",
+      "text": "Mostly sunny morning. High chance of showers, most likely in the afternoon and evening. The chance of a thunderstorm in the afternoon and evening. Light winds becoming northwesterly 15 to 20 km/h in the late afternoon then becoming light in the evening.",
+      "issued": "2026-11-19T10:59:51Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -89,8 +89,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers. The chance of a thunderstorm. Light winds becoming easterly 15 to 20 km/h during the morning then tending northeasterly during the day.",
-      "issued": "2026-11-19T01:07:17Z",
+      "text": "Partly cloudy. Slight chance of a shower in the morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Winds northerly 15 to 20 km/h tending northwesterly during the morning then tending northwest to northeasterly during the afternoon.",
+      "issued": "2026-11-19T10:59:43Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -99,7 +99,7 @@
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
       "text": "Partly cloudy. Medium chance of showers, most likely in the morning and afternoon. The chance of a thunderstorm in the morning and afternoon. Light winds becoming west to northwesterly 15 to 20 km/h during the afternoon then becoming light during the evening.",
-      "issued": "2026-11-19T01:07:12Z",
+      "issued": "2026-11-19T10:59:34Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -107,8 +107,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers, most likely in the late morning and afternoon. The chance of a thunderstorm in the afternoon. Light winds becoming northeasterly 15 to 20 km/h in the middle of the day then tending northerly in the early afternoon.",
-      "issued": "2026-11-19T01:07:08Z",
+      "text": "Partly cloudy. Medium chance of showers, most likely in the late morning and afternoon. The chance of a thunderstorm in the late afternoon and evening. Light winds becoming northeasterly 15 to 20 km/h in the middle of the day then becoming light in the evening.",
+      "issued": "2026-11-19T10:59:38Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -116,8 +116,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely later in the day. The chance of a thunderstorm. Light winds becoming west to northwesterly 15 to 20 km/h during the day.",
-      "issued": "2026-11-19T01:07:03Z",
+      "text": "Partly cloudy. High chance of showers, most likely in the afternoon and evening. The chance of a thunderstorm in the afternoon and evening. Light winds becoming westerly 15 to 20 km/h during the afternoon then becoming light during the evening.",
+      "issued": "2026-11-19T10:59:47Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -125,8 +125,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely in the late morning and afternoon. A thunderstorm likely in the morning and afternoon. Light winds becoming south to southwesterly 15 to 20 km/h in the early afternoon then becoming light in the late afternoon.",
-      "issued": "2026-11-19T01:06:58Z",
+      "text": "Partly cloudy. High chance of showers, most likely in the morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming south to southwesterly 15 to 20 km/h in the middle of the day then shifting northwesterly in the early afternoon.",
+      "issued": "2026-11-19T10:59:56Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -153,16 +153,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-18T17:00:00Z",
+      "issued": "2026-11-19T05:38:18Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10111",
       "level": "advice",
       "hazard": "storm",
-      "title": "A broad trough lies over the southeast part of the Territory with another trough moving into the southwest. The troughs will clear eastward ",
-      "text": "Sunny south of Ti Tree. A slight to medium chance of showers and thunderstorms elsewhere, increasing to a medium to high chance about the Daly District. Very hot in the eastern Simpson and Tanami Districts. Light to moderate east to northeasterly winds north of Tennant Creek, tending northeast to northwesterly...",
-      "issued": "2026-11-18T17:00:00Z",
+      "title": "A trough is moving through southern parts of the Territory and will clear away to the east overnight. A weak ridge will build through the re",
+      "text": "Sunny south of Ti Tree. A slight to medium chance of showers and thunderstorms elsewhere, increasing to a medium to high chance over the western Top End. Very hot in the eastern Simpson and Tanami Districts. Light to moderate east to northeasterly winds north of Tennant Creek, tending northeast to northwesterly...",
+      "issued": "2026-11-19T05:38:18Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -171,16 +171,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:08Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10112",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-19T01:06:08Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -189,7 +189,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:44Z",
+      "issued": "2026-11-19T11:00:29Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -198,7 +198,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:26Z",
+      "issued": "2026-11-19T10:59:29Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -207,7 +207,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:39Z",
+      "issued": "2026-11-19T11:00:24Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -216,7 +216,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:49Z",
+      "issued": "2026-11-19T11:00:20Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -225,7 +225,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:53Z",
+      "issued": "2026-11-19T11:00:15Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -234,16 +234,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:57Z",
+      "issued": "2026-11-19T10:58:27Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10198",
       "level": "advice",
-      "hazard": "flood",
-      "title": "Partly cloudy. High chance of showers, becoming less likely in the evening. The chance of a thunderstorm. Winds north to northeasterly 15 to",
-      "text": "Partly cloudy. Slight chance of a shower. The chance of a thunderstorm in the afternoon and evening, possibly severe with damaging winds, large hail and heavy rain which may lead to flash flooding. Winds northwesterly 20 to 30 km/h becoming light in the evening.",
-      "issued": "2026-11-19T01:06:57Z",
+      "hazard": "storm",
+      "title": "Partly cloudy. The chance of a thunderstorm. Light winds.",
+      "text": "Partly cloudy. High chance of showers, most likely in the afternoon and evening. A thunderstorm likely in the afternoon and evening. Light winds becoming north to northwesterly 15 to 20 km/h in the middle of the day then tending west to northwesterly in the early afternoon.",
+      "issued": "2026-11-19T10:58:27Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -252,7 +252,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-18T22:48:39Z",
+      "issued": "2026-11-19T11:00:05Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -261,7 +261,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:31Z",
+      "issued": "2026-11-19T11:00:10Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -270,7 +270,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:35Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -279,7 +279,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:22Z",
+      "issued": "2026-11-19T10:59:51Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -288,7 +288,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:17Z",
+      "issued": "2026-11-19T10:59:43Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -297,7 +297,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:12Z",
+      "issued": "2026-11-19T10:59:34Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -306,7 +306,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:08Z",
+      "issued": "2026-11-19T10:59:38Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -315,7 +315,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:07:03Z",
+      "issued": "2026-11-19T10:59:47Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -324,16 +324,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:25Z",
+      "issued": "2026-11-19T10:58:21Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10207",
       "level": "advice",
       "hazard": "storm",
-      "title": "Showers. Storm developing.",
+      "title": "Possible storm.",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:25Z",
+      "issued": "2026-11-19T10:58:21Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -342,16 +342,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:08:11Z",
+      "issued": "2026-11-19T11:01:16Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10208",
       "level": "advice",
-      "hazard": "flood",
-      "title": "Partly cloudy. Medium chance of showers, becoming less likely in the evening. The chance of a thunderstorm in the late morning and afternoon",
-      "text": "Partly cloudy. Medium chance of showers, most likely in the afternoon. The chance of a thunderstorm, possibly severe with damaging winds, large hail and heavy rain which may lead to flash flooding. Winds north to northwesterly 20 to 25 km/h tending west to northwesterly 15 to 25 km/h in the middle of the day then...",
-      "issued": "2026-11-19T01:08:11Z",
+      "hazard": "storm",
+      "title": "Partly cloudy. Light winds.",
+      "text": "Partly cloudy. High chance of showers, most likely in the morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming south to southwesterly 15 to 20 km/h in the middle of the day then shifting northwesterly in the early afternoon.",
+      "issued": "2026-11-19T11:01:16Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -360,7 +360,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:58Z",
+      "issued": "2026-11-19T10:59:56Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -369,16 +369,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-18T20:00:00Z",
+      "issued": "2026-11-19T06:30:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10721",
       "level": "advice",
       "hazard": "storm",
-      "title": "A medium to high chance of showers and gusty thunderstorms, decreasing to a slight to medium chance over the Lasseter District. Damaging win",
-      "text": "A medium to high chance of showers and gusty thunderstorms, decreasing to a slight to medium chance over the Lasseter District. Damaging wind gusts, heavy rainfall and large hail possible with thunderstorms south of Elliott. Light to moderate northeast to northwesterly winds, fresh and gusty south of Elliott.",
-      "issued": "2026-11-18T20:00:00Z",
+      "title": "A slight to medium chance of showers and thunderstorms south of Daly Waters, increasing to a medium to high chance elsewhere. Light to moder",
+      "text": "A slight to medium chance of showers and thunderstorms south of Daly Waters, increasing to a medium to high chance elsewhere. Light to moderate southeast to northeasterly winds north of Elliott, tending to northwest to southwesterly elsewhere.",
+      "issued": "2026-11-19T06:30:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -387,7 +387,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-18T19:30:00Z",
+      "issued": "2026-11-19T06:30:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -396,7 +396,7 @@
       "hazard": "fire",
       "title": "F",
       "text": "Note: On occasion Fire Danger Ratings may not adhere to FBI thresholds above due to agency discretion in setting FDRs.",
-      "issued": "2026-11-18T19:30:00Z",
+      "issued": "2026-11-19T06:30:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -405,16 +405,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:29Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11030",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-19T01:06:29Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -423,16 +423,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:39Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11032",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-19T01:06:39Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -441,16 +441,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:43Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11033",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-19T01:06:43Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -459,16 +459,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:48Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11034",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-19T01:06:48Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -477,16 +477,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:52Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11035",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-19T01:06:52Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -495,16 +495,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-18T23:00:00Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11036",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-18T23:00:00Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -513,16 +513,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T01:06:34Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11037",
       "level": "advice",
       "hazard": "other",
-      "title": "A slack pressure gradient lies over the Northern Territory waters. A high over the Tasman Sea will extend a weak ridge through the Gulf of C",
+      "title": "A high over the Tasman Sea extends a weak ridge into the Gulf of Carpentaria. The ridge will break down during the weekend, leaving a slack ",
       "text": "* Calls to 1300 number cost around 27.5c inc. GST, higher from mobiles or public phones. Marine forecasts are also available on VHF and HF radio. View the radio schedule on www.bom.gov.au/marine",
-      "issued": "2026-11-19T01:06:34Z",
+      "issued": "2026-11-19T11:00:00Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -540,7 +540,7 @@
       "hazard": "other",
       "title": "O",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-19T04:01:03+00:00",
+      "issued": "2026-11-19T13:01:02+00:00",
       "source": "Bureau of Meteorology"
     }
   ]
