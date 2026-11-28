@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T22:23:54+00:00",
+  "updated": "2026-11-28T04:07:12+00:00",
   "source": "Bureau of Meteorology anonymous FTP",
   "count": 60,
   "warnings": [
@@ -8,8 +8,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely during this afternoon and evening. Light winds becoming westerly 15 to 20 km/h in the middle of the day then becoming light in the early afternoon.",
-      "issued": "2026-11-27T17:20:00Z",
+      "text": "Partly cloudy. Very high chance of showers, most likely in the morning and afternoon. A thunderstorm likely. Light winds becoming west to northwesterly 15 to 20 km/h during the day then becoming light during the afternoon.",
+      "issued": "2026-11-28T00:42:21Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -17,8 +17,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Sunny. Winds south to southeasterly 15 to 20 km/h becoming light in the middle of the day then becoming southerly 15 to 20 km/h in the early afternoon.",
-      "issued": "2026-11-27T17:20:00Z",
+      "text": "Sunny. Winds south to southeasterly 15 to 20 km/h becoming light in the early morning then becoming south to southeasterly 15 to 25 km/h in the morning.",
+      "issued": "2026-11-27T22:51:04Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -27,16 +27,16 @@
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
       "text": "Mostly sunny. Slight chance of a shower northwest of Kakadu Highway, near zero chance elsewhere. The chance of a thunderstorm north of Arnhem Highway in the afternoon. Light winds becoming easterly 15 to 20 km/h during the day then becoming light during the afternoon.",
-      "issued": "2026-11-27T21:47:01Z",
+      "issued": "2026-11-28T00:42:27Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10196",
       "level": "watch",
-      "hazard": "flood",
+      "hazard": "other",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely, possibly severe with damaging winds and heavy rain which may lead to flash flooding. Light winds.",
-      "issued": "2026-11-27T17:20:00Z",
+      "text": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadcasts.",
+      "issued": "2026-11-28T00:42:32Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -45,7 +45,7 @@
       "hazard": "other",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
       "text": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadcasts.",
-      "issued": "2026-11-27T17:20:00Z",
+      "issued": "2026-11-27T22:55:03Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -53,8 +53,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers, most likely in the late morning and afternoon. The chance of a thunderstorm in the late morning and afternoon. Light winds becoming northerly 15 to 20 km/h in the middle of the day then becoming light in the late afternoon.",
-      "issued": "2026-11-27T17:30:00Z",
+      "text": "Partly cloudy. High chance of showers, most likely in the late morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming northerly 15 to 20 km/h in the morning then tending northwesterly in the late afternoon.",
+      "issued": "2026-11-28T00:41:53Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -62,8 +62,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Mostly sunny morning. High chance of showers, most likely in the afternoon and evening. A thunderstorm likely in the afternoon and evening. Light winds becoming southeasterly 15 to 20 km/h in the early afternoon then turning east to northeasterly in the late afternoon.",
-      "issued": "2026-11-27T17:30:00Z",
+      "text": "Partly cloudy. Medium chance of showers, most likely in the afternoon and evening. The chance of a thunderstorm in the afternoon and evening. Light winds becoming east to southeasterly 15 to 20 km/h during the day then becoming light during the evening.",
+      "issued": "2026-11-28T00:41:46Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -72,16 +72,16 @@
       "hazard": "other",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
       "text": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadcasts.",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-27T22:51:20Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10202",
       "level": "watch",
-      "hazard": "flood",
+      "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Very high chance of showers, most likely during this afternoon and evening. Thunderstorms, possibly severe with heavy rain which may lead to flash flooding. Light winds.",
-      "issued": "2026-11-27T17:30:00Z",
+      "text": "Partly cloudy. Medium chance of showers, most likely later in the day. The chance of a thunderstorm. Light winds becoming northeasterly 15 to 20 km/h during the day.",
+      "issued": "2026-11-28T00:42:10Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -89,8 +89,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Slight chance of a shower. The chance of a thunderstorm during the morning and afternoon. Light winds becoming southerly 15 to 20 km/h in the early afternoon then tending southeasterly in the evening.",
-      "issued": "2026-11-27T17:30:00Z",
+      "text": "Partly cloudy. Slight chance of a shower. The chance of a thunderstorm later in the day. Winds north to northeasterly 15 to 20 km/h turning easterly during the day.",
+      "issued": "2026-11-28T00:42:16Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -98,8 +98,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Medium chance of showers, most likely from the late morning. The chance of a thunderstorm in the afternoon and evening. Winds west to northwesterly 15 to 20 km/h tending north to northwesterly in the late afternoon then becoming light in the late evening.",
-      "issued": "2026-11-27T17:30:00Z",
+      "text": "Partly cloudy. Medium chance of showers, most likely in the late morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming west to northwesterly 15 to 20 km/h in the middle of the day then becoming light in the evening.",
+      "issued": "2026-11-28T00:41:59Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -107,8 +107,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Very high chance of showers, most likely in the afternoon and evening. A thunderstorm likely from the late morning. Light winds becoming north to northwesterly 15 to 20 km/h in the middle of the day then becoming light in the late afternoon.",
-      "issued": "2026-11-27T21:46:56Z",
+      "text": "Partly cloudy. High chance of showers, most likely in the afternoon and evening. A thunderstorm likely in the afternoon and evening. Light winds becoming north to northwesterly 15 to 20 km/h in the early afternoon then becoming light in the late afternoon.",
+      "issued": "2026-11-28T00:41:34Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -116,8 +116,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. Very high chance of showers, most likely during this afternoon and evening. A thunderstorm likely during this afternoon and evening. Light winds.",
-      "issued": "2026-11-27T17:30:00Z",
+      "text": "Partly cloudy. Very high chance of showers, most likely in the late morning and afternoon. A thunderstorm likely in the afternoon and evening. Light winds becoming westerly 15 to 20 km/h in the middle of the day then becoming light in the early afternoon.",
+      "issued": "2026-11-28T00:41:20Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -125,8 +125,8 @@
       "level": "watch",
       "hazard": "storm",
       "title": "For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659 210* or listen for warnings on relevant TV and radio broadca",
-      "text": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely during this afternoon and evening. Light winds becoming southwesterly 15 to 25 km/h in the middle of the day then becoming light in the late afternoon.",
-      "issued": "2026-11-27T17:30:00Z",
+      "text": "Partly cloudy. Medium chance of showers. A thunderstorm likely in the late morning and afternoon. Winds south to southwesterly 15 to 20 km/h tending west to southwesterly 15 to 25 km/h in the middle of the day then becoming light in the late afternoon.",
+      "issued": "2026-11-28T00:42:05Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -153,7 +153,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:00:00Z",
+      "issued": "2026-11-28T01:11:06Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -161,8 +161,8 @@
       "level": "advice",
       "hazard": "storm",
       "title": "A strengthening ridge across the south will push a trough toward the base of the Top End during the weekend. By Monday a strong high pressur",
-      "text": "Sunny through southern districts. A slight chance of showers and gusty thunderstorms elsewhere, increasing to a medium to high chance north of Tennant Creek. Heavy rainfall and damaging wind gusts possible with thunderstorms between Tennant Creek, most likely about the base of the Top End. Light to moderate south...",
-      "issued": "2026-11-27T17:00:00Z",
+      "text": "Sunny south of Mataranka. A slight to medium chance of showers and thunderstorms north of Mataranka, increasing to a medium to high chance north of Adelaide River. Less humid in the Gregory and Carpentaria Districts. Very hot in the Gregory District. Moderate to fresh and gusty south to southeasterly winds, tending...",
+      "issued": "2026-11-28T01:11:06Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -171,16 +171,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:00:00Z",
+      "issued": "2026-11-28T00:40:13Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10112",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T17:00:00Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:40:13Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -189,7 +189,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:20:00Z",
+      "issued": "2026-11-28T00:42:21Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -198,7 +198,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:20:00Z",
+      "issued": "2026-11-27T22:51:04Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -207,7 +207,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:47:01Z",
+      "issued": "2026-11-28T00:42:27Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -216,7 +216,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:20:00Z",
+      "issued": "2026-11-28T00:42:32Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -225,7 +225,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:20:00Z",
+      "issued": "2026-11-27T22:55:03Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -234,16 +234,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:50Z",
+      "issued": "2026-11-28T00:40:47Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10198",
       "level": "advice",
       "hazard": "storm",
-      "title": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely during this afternoon and evenin",
+      "title": "Partly cloudy. High chance of showers, most likely in the afternoon. A thunderstorm likely from the late morning. Winds westerly 15 to 20 km",
       "text": "Mostly sunny. Slight chance of a shower northwest of Kakadu Highway, near zero chance elsewhere. The chance of a thunderstorm north of Arnhem Highway in the afternoon. Light winds becoming easterly 15 to 20 km/h during the day then becoming light during the afternoon.",
-      "issued": "2026-11-27T21:46:50Z",
+      "issued": "2026-11-28T00:40:47Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -252,7 +252,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-28T00:41:53Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -261,7 +261,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-28T00:41:46Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -270,7 +270,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-27T22:51:20Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -279,7 +279,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-28T00:42:10Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -288,7 +288,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-28T00:42:16Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -297,7 +297,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-28T00:41:59Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -306,7 +306,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:56Z",
+      "issued": "2026-11-28T00:41:34Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -315,7 +315,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-28T00:41:20Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -324,16 +324,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:33Z",
+      "issued": "2026-11-28T00:40:26Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10207",
       "level": "advice",
       "hazard": "storm",
-      "title": "Showers. Storm developing.",
+      "title": "Showers. Storm.",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:33Z",
+      "issued": "2026-11-28T00:40:26Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -342,16 +342,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:47:15Z",
+      "issued": "2026-11-28T00:42:54Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD10208",
       "level": "advice",
       "hazard": "storm",
-      "title": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely during this afternoon and evenin",
-      "text": "Partly cloudy. High chance of showers, most likely during this afternoon and evening. A thunderstorm likely during this afternoon and evening. Light winds becoming northwest to southwesterly 15 to 20 km/h in the middle of the day then becoming light in the late afternoon.",
-      "issued": "2026-11-27T21:47:15Z",
+      "title": "Partly cloudy. High chance of showers, most likely in the afternoon. A thunderstorm likely from the late morning. Winds westerly 15 to 20 km",
+      "text": "Partly cloudy. Medium chance of showers, most likely in the late morning and afternoon. The chance of a thunderstorm in the afternoon and evening. Light winds becoming west to northwesterly 15 to 20 km/h in the middle of the day then becoming light in the evening.",
+      "issued": "2026-11-28T00:42:54Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -360,7 +360,7 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:30:00Z",
+      "issued": "2026-11-28T00:42:05Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -405,16 +405,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:51Z",
+      "issued": "2026-11-28T00:40:48Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11030",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T21:46:51Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:40:48Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -423,16 +423,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:00:00Z",
+      "issued": "2026-11-28T00:41:13Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11032",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T17:00:00Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:41:13Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -441,16 +441,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:46Z",
+      "issued": "2026-11-28T00:40:58Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11033",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T21:46:46Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:40:58Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -459,16 +459,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:37Z",
+      "issued": "2026-11-28T00:40:42Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11034",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T21:46:37Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:40:42Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -477,16 +477,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T21:46:41Z",
+      "issued": "2026-11-28T00:40:37Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11035",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T21:46:41Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:40:37Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -495,16 +495,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:00:00Z",
+      "issued": "2026-11-28T00:40:53Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11036",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T17:00:00Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:40:53Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -513,16 +513,16 @@
       "hazard": "other",
       "title": "F",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T17:00:00Z",
+      "issued": "2026-11-28T00:41:05Z",
       "source": "Bureau of Meteorology"
     },
     {
       "id": "IDD11037",
       "level": "advice",
-      "hazard": "storm",
+      "hazard": "other",
       "title": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a r",
-      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf, resulting in fresher surges of south to southeasterly winds.",
-      "issued": "2026-11-27T17:00:00Z",
+      "text": "A weak pressure gradient lies over the Gulf of Carpentaria and the Top End. A strong high pressure system over the Bight will strengthen a ridge to the south early next week, pushing an inland trough over the Gulf,",
+      "issued": "2026-11-28T00:41:05Z",
       "source": "Bureau of Meteorology"
     },
     {
@@ -540,7 +540,7 @@
       "hazard": "other",
       "title": "O",
       "text": "http://www.bom.gov.au/other/disclaimer.shtml",
-      "issued": "2026-11-27T22:21:02+00:00",
+      "issued": "2026-11-28T04:01:02+00:00",
       "source": "Bureau of Meteorology"
     }
   ]
